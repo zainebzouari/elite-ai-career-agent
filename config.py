@@ -11,12 +11,10 @@ from dotenv import load_dotenv
 load_dotenv(dotenv_path=Path(__file__).parent / ".env")
 
 # ==================== FICHIERS ====================
-RESUME_PATH = os.getenv(
-    "LINKEDIN_RESUME_PATH",
-    r"C:\Users\MSI\Desktop\cv pour candidature\iovision\cv_zaineb_zouari.pdf"
-)
-OUTPUT_DIR = os.getenv("OUTPUT_DIR", "linkedin_jobs_scraper/output")
-DEFAULT_OUTPUT_PREFIX = "linkedin_jobs_analyzed"
+# Le CV est uploadé directement dans l'interface (st.file_uploader) —
+# aucun chemin fixe n'est nécessaire ni utilisé par l'application.
+OUTPUT_DIR = os.getenv("OUTPUT_DIR", "output")
+DEFAULT_OUTPUT_PREFIX = "jobs_analyzed"
 
 # ==================== RECHERCHE ====================
 DEFAULT_JOB_TITLES = [
@@ -115,9 +113,6 @@ def validate_config() -> bool:
     """Vérifie la configuration avant le lancement."""
     errors: list[str] = []
 
-    if not Path(RESUME_PATH).exists():
-        errors.append(f"CV introuvable : {RESUME_PATH}")
-
     if OUTPUT_DIR:
         try:
             Path(OUTPUT_DIR).mkdir(parents=True, exist_ok=True)
@@ -141,7 +136,6 @@ def print_config() -> None:
     print("=" * 70)
     print("CONFIGURATION")
     print("=" * 70)
-    print(f"CV             : {RESUME_PATH}")
     print(f"Dossier sortie : {OUTPUT_DIR}")
     print(f"Modèle Ollama  : {OLLAMA_MODEL}")
     print(f"Analyse LLM    : {ENABLE_LLM_ANALYSIS}")

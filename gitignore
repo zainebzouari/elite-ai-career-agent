@@ -1,0 +1,34 @@
+# ── Environnement ────────────────────────────────────────────
+.env
+venv/
+env/
+.venv/
+
+# ── Python ───────────────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.Python
+build/
+dist/
+
+# ── Streamlit ────────────────────────────────────────────────
+.streamlit/secrets.toml
+
+# ── Sorties / données générées ──────────────────────────────
+output/
+outputs/
+*.csv
+*.json
+*.pdf
+
+# ── Selenium / navigateur ───────────────────────────────────
+*.log
+chromedriver*
+
+# ── Éditeurs / OS ────────────────────────────────────────────
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
