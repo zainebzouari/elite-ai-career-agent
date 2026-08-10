@@ -1,0 +1,359 @@
+{
+  "metadata": {
+    "scrape_date": "2026-03-05 01:12:37",
+    "total_jobs": 10,
+    "llm_analysis_enabled": true,
+    "descriptions_fetched": true,
+    "ollama_model": "qwen2.5:7b"
+  },
+  "items": [
+    {
+      "job_id": "926fba25c2a9d22632edab7f64a8704b",
+      "title": "Data Scientist/ML Engineer",
+      "company": "Loansquare",
+      "location": "Tunis, Tunis, Tunisia",
+      "link": "https://tn.linkedin.com/jobs/view/data-scientist-ml-engineer-at-loansquare-4315282249",
+      "posted_date": "2025-10-16",
+      "posted_text": "4 months ago",
+      "scraped_at": "2026-03-05T00:53:41.105714",
+      "description": "About Us\nWHY Linedata?\nLinedata is an award-winning software solutions company. We believe finance matters to our society as much as energy to life and fueling financial transformation is vital for development and leadership.\nWe Humanize Technology\nWe are passionate experts who provide investment management and credit communities with innovative, user-friendly products which help their businesses grow in over 50 countries\nOur environment is international, ego-free and relaxed. We believe in building confidence through giving clear responsibilities to our team members and managing to given goals and targets. We celebrate success and we enjoy each other’s company\nWe employ more than 1350 employees representing 40 nationalities spread throughout our offices in 14 countries. We believe in mobility, diversity & teamwork.\nOur mission is to continue to find new ways to create and build flexible, mission-critical software and services and to stay on the cutting edge of the financial software space.\nJOIN THE MOVEMENT\nWe provide the investment management and credit communities with an innovative, user-friendly suite of products that, through detailed market and client insights, help their business to grow in over 50 countries.\nWe are transforming the financial services community which is in constant evolution.\nWith our agility, we make technology simple & accessible for our users. Let’s work together to achieve the best solutions for our clients.\nCommitment to Diversity\nWe recognize, celebrate, and seek to increase diversity across our organization. Diversity is an asset to organizations and is linked to better performance. It is an integral part of how we do business and imperative to our success. As an international Group, we also believe that our people need to reflect our clients and local communities.\nLinedata is an Equal Opportunity Employer. We are committed to complying with all federal, state, and local laws providing equal employment opportunities, and all other employment laws and regulations.\nIt is our intent to maintain a work environment that is free of harassment, discrimination, or retaliation based on an individual's race, color, religion, religious creed, national origin, ancestry, citizenship, physical or mental disability, medical condition, genetic information, marital status, sex, gender, age, sexual orientation, veteran and/or military status, protected medical leaves, domestic violence victim status, political affiliation, or any other status protected by federal, state, or local laws.\nJob Description\nLinedata est éditeur mondial de logiciels, fournisseur de services et données à valeur ajoutée dédié au secteur financier. Linedata accompagne ses clients gestionnaires d’actifs, traditionnels ou alternatifs, administrateurs de fonds et institutions de crédits et financements, dans leurs défis, grâce à des solutions innovantes et efficaces.\nAvec plus de 25 ans d’expérience dans le domaine de la FinTech, Linedata propose à ses équipes tout au long de leur carrière la possibilité de construire une forte expertise alliant finance et technologie dans un environnement international stimulant.\nNous Humanisons La Technologie\nParce que nous sommes indépendants, fiables, accessibles et engagés, parce que nos équipes sont soudées, à l'écoute, attentionnées et passionnées, parce que nos experts sont à la fois des partenaires spécialisés et attentifs, nous nous surpassons pour créer des solutions globales de leadership.\nStimulés par un environnement en transformation et par nos clients qui ont besoin de s’y adapter, enthousiasmés par les entreprises collaboratives partageant notre esprit entrepreneurial et nos ambitions, nous révélons leur puissance créative pour faire circuler l'argent et alimenter l'économie, nous aidons les gens à développer leurs capacités et leur dignité pour les générations futures.\nContexte du poste\nDans le cadre de sa croissance,\nLinedata\n, éditeur de référence dans le domaine de l’Asset Management et les crédits & Financement destinés aux\ninstitutions financières\n, recherche un\nData Scientist / ML Engineer\npassionné par la donnée et l’intelligence artificielle.\nVous intégrerez une équipe déjà en place, qui collabore avec les experts métiers et les équipes de développement, pour concevoir, mettre en œuvre et industrialiser des modèles analytiques au service de la performance et de la prise de décision.\nJob Requirement\nMissions principales\nConcevoir, développer et déployer des modèles de machine learning et d’IA générative répondant aux besoins des métiers financiers ;\nAnalyser et valoriser les données internes et externes afin de générer des insights exploitables ;\nParticiper à la constitution et à la structuration des data pipelines en collaboration avec les Data Engineers ;\nContribuer à la mise en place de solutions d’industrialisation et de monitoring des modèles ;\nCollaborer étroitement avec les équipes produit et les experts métiers pour traduire les besoins fonctionnels en solutions data ;\nRéaliser des études exploratoires, prototypes et POC pour valider les approches analytiques ;\nAssurer une veille technologique sur les nouvelles méthodes et outils d’analyse de données.\nCompétences techniques requises\nMaîtrise des langages de programmation Python (pandas, scikit-learn, PyTorch, TensorFlow, etc.) ;\nExpérience professionnelle en prompt engineering.\nSolide compréhension des techniques de machine learning, deep learning et statistiques appliquées ;\nBonne connaissance des bases de données SQL / NoSQL et des environnements cloud (AWS, Azure, GCP) ,\nConnaissance des bonnes pratiques d’industrialisation (Git, CI/CD, APIs, Docker, k8s etc.) ;\nLa connaissance du domaine financier (marchés, risques, conformité, asset management, etc.) est un atout majeur.\nProfil recherché\nDiplôme d’ingénieur ou Master (Bac+5) en data science, mathématiques appliquées, informatique, statistiques ou équivalent ;\nExpérience de 2 à 5 ans minimum dans un poste similaire (une première expérience dans le secteur financier est un plus) ;\nBonne maîtrise des modèles NLP / IA générative open source (manage services et déploiement local) ;\nCapacité à déployer des modèles sur GPU/Kuda\nSolides capacités analytiques et rigueur scientifique ;\nEsprit d’équipe, sens du service et excellente communication ;\nCuriosité technologique et envie de travailler dans un environnement innovant et collaboratif.\nEngagement Pour La Diversité\nNous reconnaissons, célébrons et cherchons à accroître la diversité dans notre organisation. La diversité est un atout pour les organisations et est liée à une meilleure performance. Elle fait partie intégrante de notre façon de travailler et est impérative pour notre succès. En tant que Groupe international, nous pensons également que nos collaborateurs doivent refléter nos clients et les communautés locales.\nLinedata est un employeur qui respecte l'égalité des chances. Nous nous engageons à respecter toutes les lois fédérales, étatiques et locales prévoyant l'égalité des chances en matière d'emploi, ainsi que toutes les autres lois et réglementations en la matière.\nNous nous engageons maintenir un environnement de travail exempt de harcèlement, de discrimination ou de représailles fondés sur la race, la couleur, la religion, la croyance religieuse, l'origine nationale, l'ascendance, la citoyenneté, le handicap physique ou mental, la condition médicale, l'information génétique, le statut marital, le sexe, le genre, l'âge, l'orientation sexuelle, le statut de vétéran et/ou de militaire, les congés médicaux protégés, le statut de victime de violence domestique, l'affiliation politique ou tout autre statut protégé par les lois fédérales, provinciales ou locales.",
+      "llm_analysis": {
+        "match_score": 7,
+        "recommendation": "Apply",
+        "matched_skills": [
+          "Python",
+          "Scikit-learn",
+          "TensorFlow",
+          "Machine Learning",
+          "Data Pipelines",
+          "Git",
+          "Cloud Environments"
+        ],
+        "missing_skills": [
+          "Financial Domain Knowledge",
+          "Prompt Engineering",
+          "GPU Deployment"
+        ],
+        "job_benefits": [
+          "International Environment",
+          "Diversity and Inclusion"
+        ],
+        "analysis": "Zaineb Zouari's resume shows strong alignment with the job posting in terms of technical skills and experience with machine learning and data pipelines. However, the lack of financial domain knowledge and specific prompt engineering experience could be a concern. Overall, she is a good fit and could be a strong candidate with additional training or projects in these areas."
+      }
+    },
+    {
+      "job_id": "52f076293470d8dfceff475f0159647c",
+      "title": "Junior AI Engineer",
+      "company": "Devoteam",
+      "location": "Tunis, Tunis, Tunisia",
+      "link": "https://tn.linkedin.com/jobs/view/junior-ai-engineer-at-devoteam-4304224854",
+      "posted_date": "2026-03-01",
+      "posted_text": "3 days ago",
+      "scraped_at": "2026-03-05T00:57:52.828631",
+      "description": "Chez Devoteam, nous sommes des « Digital Transformakers ». Le respect, la franchise et la passion animent chaque jour notre tribu.\nEnsemble, nous aidons nos clients à remporter la bataille du Digital : du conseil à la mise en œuvre de technologies innovantes, jusqu’à l’adoption des usages.\nAI, Cloud, Cybersecurity, Data, DevOps, Fullstack Dev, Low Code, RPA n’ont plus aucun secret pour notre tribu !\nNos 12 000+ collaborateurs sont certifiés, formés et accompagnés au quotidien pour relever de nouveaux challenges innovants.\nLeader du Cloud, de la Cybersécurité et de la Data en EMEA, le Groupe Devoteam a réalisé en 2023 un chiffre d’affaires de 1,3 milliard d’euros et se donne pour ambition de le doubler dans les 5 années à venir.\nDevoteam Tunisie, filiale de Devoteam Group, est génératrice de valeur depuis plus de 15 années. Travaillant à la fois à l'échelle africaine et internationale, notre équipe compte plus de 160 consultant(e)s pluridisciplinaires doté(e)s de compétences variées (consultants en transformation digitale, développeurs, chefs de projets, experts en data et cybersécurité) travaillant sur des projets enrichissants et innovants.\nDescription Du Poste\n🧠 Missions\nEn tant qu’AI Engineer junior, vous serez amené(e) à :\nParticiper à la conception et à l'entraînement de modèles NLP (similarité de profils, classification, recommandation)\nIntégrer des algorithmes de scoring et matching IA dans les flux applicatifs\nContribuer à la création d’outils d’analyse sémantique (vectorisation, embeddings, etc.)\nCollaborer avec des développeurs full-stack sur l'intégration front/back des modèles IA\nDocumenter et tester vos modèles pour garantir leur qualité et leur fiabilité\nParticiper aux cérémonies agiles (daily, sprint planning, démo)\nQualifications\n🧰 Compétences requises\nTechniques\n:\nConnaissances en Machine Learning & NLP (scikit-learn, spaCy, transformers, etc.)\nMaîtrise de Python et des bibliothèques IA (pandas, numpy, gensim, HuggingFace…)\nExpérience avec des APIs de recherche (Google CSE, LinkedIn, etc.) est un plus\nNotions en développement REST APIs ou intégration cloud (GCP, Azure ou AWS) sont un plus\nInformations supplémentaires\n✅ Profil recherché\nDiplômé(e) d’une école d’ingénieur, master en IA, data science ou informatique\n0 à 2 ans d'expérience (stage ou projet significatif accepté)\nUn portfolio, un projet GitHub ou un Kaggle est un plus",
+      "llm_analysis": {
+        "match_score": 7,
+        "recommendation": "Apply",
+        "matched_skills": [
+          "Machine Learning & NLP",
+          "Python",
+          "APIs",
+          "Agile methodologies"
+        ],
+        "missing_skills": [
+          "Experience with cloud APIs",
+          "Specific NLP projects"
+        ],
+        "job_benefits": [
+          "Digital transformation",
+          "Innovative projects"
+        ],
+        "analysis": "Zaineb Zouari has a strong background in AI and relevant technical skills, making her a good fit for the role. However, she may need to showcase more specific NLP projects and cloud API experience to fully align with the job posting."
+      }
+    },
+    {
+      "job_id": "095b3667a3e852cf4f2faad1f597d5b6",
+      "title": "Software Engineer Annotator",
+      "company": "Odixcity Consulting",
+      "location": "Tunisia",
+      "link": "https://tn.linkedin.com/jobs/view/software-engineer-annotator-at-odixcity-consulting-4378022234",
+      "posted_date": "2026-02-25",
+      "posted_text": "1 week ago",
+      "scraped_at": "2026-03-05T00:59:18.357773",
+      "description": "Job Title: Software Engineer Annotator (remote)\nLocation: Remote (world-wide)\nJob Summary: We are seeking an experienced Software Engineer Annotator responsible for evaluating, labeling, and improving software engineering datasets used for Artificial Intelligence and Large Language Model (LLM) training. The ideal candidate will apply strong programming knowledge to review AI-generated code, validate outputs, and ensure high-quality technical annotations aligned with engineering best practices.\nJob Responsibilities\nAnnotate and review software engineering datasets for AI training.\nAI-generated code for correctness, efficiency, readability, and security.\nLabel datasets including code completion, debugging, refactoring, and optimization tasks.\nProvide structured feedback to improve model performance.\nEnsure adherence to annotation guidelines and quality standards.\nCollaborate with AI trainers, reviewers, and data teams.\nJob Requirements\nBachelor’s degree in computer science, software Engineering, or information Technology\nMinimum of 3- 5 years’ experience as a Software Engineer.\nPrior experience in data annotation, AI training, and coding review.\nStrong programming background in Python, Java, JavaScript, or C++, or Go.\nSolid understanding of software engineering principles, data structures, and algorithms.\nAbility to annotate, label, and evaluate code datasets accurately.\nFamiliarity with software development lifecycle (SDLC) and coding best practices.\nUnderstanding of APIs, backend systems, and web technologies.\nBasic knowledge of Artificial intelligence, machine learning, or Large Language Models (LLM) is an advantage.\nCapability to compare multiple AI-generated responses and rank them based on accuracy and usefulness.\nFamiliarity with annotation platforms or labeling tools.",
+      "llm_analysis": {
+        "match_score": 7,
+        "recommendation": "Maybe Apply",
+        "matched_skills": [
+          "Python",
+          "Data Structures and Algorithms",
+          "AI and ML",
+          "Coding Review"
+        ],
+        "missing_skills": [
+          "Data Annotation Experience",
+          "API and Backend Systems Experience"
+        ],
+        "job_benefits": [
+          "Remote Work",
+          "AI Training and Coding Review"
+        ],
+        "analysis": "Zaineb has relevant skills in Python and AI, making her a good fit. However, she lacks specific experience in data annotation and API/backend systems, which are crucial for the role."
+      }
+    },
+    {
+      "job_id": "d81a76335b1ad4a1fea968118228bd24",
+      "title": "Data Scientist",
+      "company": "Yassir",
+      "location": "Tunis, Tunisia",
+      "link": "https://tn.linkedin.com/jobs/view/data-scientist-at-yassir-4292022486",
+      "posted_date": "2025-08-27",
+      "posted_text": "6 months ago",
+      "scraped_at": "2026-03-05T01:00:16.912118",
+      "description": "Yassir\nis the leading super App in the Maghreb region set to changing the way daily services are provided. It currently operates in\n45 cities across Algeria, Morocco and Tunisia with recent expansions into France, Canada and Sub-Saharan Africa\n. It is backed (:\n$200M in funding\n) by VCs from Silicon Valley, Europe and other parts of the world.\nWe offer on-demand services such as ride-hailing and last-mile delivery. Building on this infrastructure, we are now introducing financial services to help our users pay, save and borrow digitally.\nHelping usher the continent into a digital economy era. We’re not just about serving people - we’re about creating a marketplace to bring people what they need while infusing social values.\nAs data scientist at Yassir, working in the Data and AI team, you will have the opportunity to do life-changing work for Yassir’s millions of customers. You will apply groundbreaking analytics that will shape the super-app strategy of Yassir and support the growth and success of all the services Yassir is currently offering across 45 cities in 7 countries.\nResponsibilities:\nYou will work on different products, including ML/AI products, front-end products and backend systems, and will apply your data analysis skills, your analytical thinking and product intuition to create a marketplace of on-demand services.\nYou will work cross-functionally with partners across Product, Engineering, Research, Marketing, etc. to identify and solve the most important business and product problems for Yassir.\nYou are a data ambassador and foster a data-driven product development culture.\nImpact: You will influence your partners’ strategy and execution. You will use data to shape product development, optimise our operations, quantify new opportunities, identify upcoming challenges, and ensure the products we build bring value to all parties in our marketplace. You will help your partner teams prioritize what to build, set goals, track and improve day-to-day progress and master their marketplace.\nAnalytics: You will work with Engineering on collecting the right data to enable data driven decisions at Yassir. You will guide teams using data and insights. You will focus on developing hypotheses for where impact opportunities are and will develop and use a diverse toolkit of rigorous analytical approaches, statistical approaches, different methodologies, frameworks, and technical approaches to test them, building a continuous test-and-learn environment.\nCommunication and influence: You will tell data-driven stories. You will influence your partners using insights and recommendations and move your organization to being truly and solely data-driven.\nMinimum Qualifications\nBachelor's degree in Mathematics, Statistics, a relevant technical field, or equivalent practical experience.\nA minimum experience of 2 years in analytics or data science in a business or product environment.\nExperience with data querying languages (e.g. SQL), scripting languages (e.g. Python), and/or statistical/mathematical software (e.g. R)\nBenefits\nGreat compensation and bonuses including stock options\nBlue sky opportunity with the team; shape the strategic direction of the company\nSharp, motivated co-workers in a fun hybrid environment\nPaid company holidays\nWHY YOU SHOULD JOIN YASSIR\nJoin one of the fastest-growing tech companies in Africa\nHave a lasting impact on our company's culture\nMake a real impact on the world by helping us bring affordable financial and on-demand services to millions of Africans\nWork on some really hard technical challenges from identity infrastructure for Africans, digital payment networks to complex mapping and routing systems across the continent\nWe are the first Algerian startup to go through Y Combinator program and we’re backed by top investors including Unpopular Ventures, Rebel Fund and DainTree.VC\nDo you want to become part of our first-class team? You should definitely send us your application. 🚀\nAt Yassir, we believe in the power of diversity and the importance of an inclusive culture. So, if you're ready to bring your unique perspective and experiences to the table, then we're excited to listen.\nDon't just apply for a job, come and be a part of our journey. Let's create a better tomorrow together.\nWe look forward to receiving your application!\nBest of luck,\nYour Yassir TA Team\nWe may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.",
+      "llm_analysis": {
+        "match_score": 7,
+        "recommendation": "Maybe Apply",
+        "matched_skills": [
+          "Python",
+          "Deep Learning",
+          "Data Analysis",
+          "Machine Learning",
+          "AI & DL"
+        ],
+        "missing_skills": [
+          "SQL",
+          "Statistical software (e.g. R)",
+          "Product intuition",
+          "Cross-functional collaboration"
+        ],
+        "job_benefits": [
+          "Great compensation and bonuses including stock options",
+          "Blue sky opportunity with the team; shape the strategic direction of the company",
+          "Sharp, motivated co-workers in a fun hybrid environment",
+          "Paid company holidays"
+        ],
+        "analysis": "Zaineb Zouari has strong skills in AI, deep learning, and data analysis, which align well with the job requirements. However, she lacks some key skills and experiences mentioned in the job posting, such as SQL, R, and cross-functional collaboration experience."
+      }
+    },
+    {
+      "job_id": "dc00b50e22cf92ef35049c76b4353b96",
+      "title": "Data Scientist/ML Engineer",
+      "company": "Linedata",
+      "location": "Tunis, Tunis, Tunisia",
+      "link": "https://tn.linkedin.com/jobs/view/data-scientist-ml-engineer-at-linedata-4353957116",
+      "posted_date": "2026-02-12",
+      "posted_text": "2 weeks ago",
+      "scraped_at": "2026-03-05T01:02:08.960161",
+      "description": "About Us\nWHY Linedata?\nLinedata is an award-winning software solutions company. We believe finance matters to our society as much as energy to life and fueling financial transformation is vital for development and leadership.\nWe humanize technology :\nWe are passionate experts who provide investment management and credit communities with innovative, user-friendly products which help their businesses grow in over 50 countries\nOur environment is international, ego-free and relaxed. We believe in building confidence through giving clear responsibilities to our team members and managing to given goals and targets. We celebrate success and we enjoy each other’s company\nWe employ more than 1350 employees representing 40 nationalities spread throughout our offices in 14 countries. We believe in mobility, diversity & teamwork.\nOur mission is to continue to find new ways to create and build flexible, mission-critical software and services and to stay on the cutting edge of the financial software space.\nJOIN THE MOVEMENT\nWe provide the investment management and credit communities with an innovative, user-friendly suite of products that, through detailed market and client insights, help their business to grow in over 50 countries.\nWe are transforming the financial services community which is in constant evolution.\nWith our agility, we make technology simple & accessible for our users. Let’s work together to achieve the best solutions for our clients.\nCommitment to Diversity\nWe recognize, celebrate, and seek to increase diversity across our organization. Diversity is an asset to organizations and is linked to better performance. It is an integral part of how we do business and imperative to our success. As an international Group, we also believe that our people need to reflect our clients and local communities.\nLinedata is an Equal Opportunity Employer. We are committed to complying with all federal, state, and local laws providing equal employment opportunities, and all other employment laws and regulations.\nIt is our intent to maintain a work environment that is free of harassment, discrimination, or retaliation based on an individual's race, color, religion, religious creed, national origin, ancestry, citizenship, physical or mental disability, medical condition, genetic information, marital status, sex, gender, age, sexual orientation, veteran and/or military status, protected medical leaves, domestic violence victim status, political affiliation, or any other status protected by federal, state, or local laws.\nJob Description\nLinedata est éditeur mondial de logiciels, fournisseur de services et données à valeur ajoutée dédié au secteur financier. Linedata accompagne ses clients gestionnaires d’actifs, traditionnels ou alternatifs, administrateurs de fonds et institutions de crédits et financements, dans leurs défis, grâce à des solutions innovantes et efficaces.\nAvec plus de 25 ans d’expérience dans le domaine de la FinTech, Linedata propose à ses équipes tout au long de leur carrière la possibilité de construire une forte expertise alliant finance et technologie dans un environnement international stimulant.\nNous humanisons la technologie :\nParce que nous sommes indépendants, fiables, accessibles et engagés, parce que nos équipes sont soudées, à l'écoute, attentionnées et passionnées, parce que nos experts sont à la fois des partenaires spécialisés et attentifs, nous nous surpassons pour créer des solutions globales de leadership.\nStimulés par un environnement en transformation et par nos clients qui ont besoin de s’y adapter, enthousiasmés par les entreprises collaboratives partageant notre esprit entrepreneurial et nos ambitions, nous révélons leur puissance créative pour faire circuler l'argent et alimenter l'économie, nous aidons les gens à développer leurs capacités et leur dignité pour les générations futures.\nContexte du poste\nDans le cadre de sa croissance,\nLinedata\n, éditeur de référence dans le domaine de l’Asset Management et les crédits & Financement destinés aux\ninstitutions financières\n, recherche un\nData Scientist / ML Engineer\npassionné par la donnée et l’intelligence artificielle.\nVous intégrerez une équipe déjà en place, qui collabore avec les experts métiers et les équipes de développement, pour concevoir, mettre en œuvre et industrialiser des modèles analytiques au service de la performance et de la prise de décision.\nJob Requirement\nMissions principales\nConcevoir, développer et déployer des modèles de machine learning et d’IA générative répondant aux besoins des métiers financiers ;\nAnalyser et valoriser les données internes et externes afin de générer des insights exploitables ;\nParticiper à la constitution et à la structuration des data pipelines en collaboration avec les Data Engineers ;\nContribuer à la mise en place de solutions d’industrialisation et de monitoring des modèles ;\nCollaborer étroitement avec les équipes produit et les experts métiers pour traduire les besoins fonctionnels en solutions data ;\nRéaliser des études exploratoires, prototypes et POC pour valider les approches analytiques ;\nAssurer une veille technologique sur les nouvelles méthodes et outils d’analyse de données.\nCompétences techniques requises\nMaîtrise des langages de programmation Python (pandas, scikit-learn, PyTorch, TensorFlow, etc.) ;\nExpérience professionnelle en prompt engineering.\nSolide compréhension des techniques de machine learning, deep learning et statistiques appliquées ;\nBonne connaissance des bases de données SQL / NoSQL et des environnements cloud (AWS, Azure, GCP) ,\nConnaissance des bonnes pratiques d’industrialisation (Git, CI/CD, APIs, Docker, k8s etc.) ;\nLa connaissance du domaine financier (marchés, risques, conformité, asset management, etc.) est un atout majeur.\nProfil recherché\nDiplôme d’ingénieur ou Master (Bac+5) en data science, mathématiques appliquées, informatique, statistiques ou équivalent ;\nExpérience de 2 à 5 ans minimum dans un poste similaire (une première expérience dans le secteur financier est un plus) ;\nBonne maîtrise des modèles NLP / IA générative open source (manage services et déploiement local) ;\nCapacité à déployer des modèles sur GPU/Kuda\nSolides capacités analytiques et rigueur scientifique ;\nEsprit d’équipe, sens du service et excellente communication ;\nCuriosité technologique et envie de travailler dans un environnement innovant et collaboratif.\nEngagement pour la diversité :\nNous reconnaissons, célébrons et cherchons à accroître la diversité dans notre organisation. La diversité est un atout pour les organisations et est liée à une meilleure performance. Elle fait partie intégrante de notre façon de travailler et est impérative pour notre succès. En tant que Groupe international, nous pensons également que nos collaborateurs doivent refléter nos clients et les communautés locales.\nLinedata est un employeur qui respecte l'égalité des chances. Nous nous engageons à respecter toutes les lois fédérales, étatiques et locales prévoyant l'égalité des chances en matière d'emploi, ainsi que toutes les autres lois et réglementations en la matière.\nNous nous engageons maintenir un environnement de travail exempt de harcèlement, de discrimination ou de représailles fondés sur la race, la couleur, la religion, la croyance religieuse, l'origine nationale, l'ascendance, la citoyenneté, le handicap physique ou mental, la condition médicale, l'information génétique, le statut marital, le sexe, le genre, l'âge, l'orientation sexuelle, le statut de vétéran et/ou de militaire, les congés médicaux protégés, le statut de victime de violence domestique, l'affiliation politique ou tout autre statut protégé par les lois fédérales, provinciales ou locales.",
+      "llm_analysis": {
+        "match_score": 7,
+        "recommendation": "Apply",
+        "matched_skills": [
+          "Python",
+          "scikit-learn",
+          "TensorFlow",
+          "Flask",
+          "Git",
+          "Machine Learning",
+          "Deep Learning"
+        ],
+        "missing_skills": [
+          "Financial Market Knowledge",
+          "Prompt Engineering"
+        ],
+        "job_benefits": [
+          "International Environment",
+          "Ego-Free and Relaxed Work Environment",
+          "Diversity and Inclusion"
+        ],
+        "analysis": "The candidate's background aligns well with the job requirements, particularly in terms of technical skills and experience with machine learning and data analysis. However, some financial domain knowledge and prompt engineering experience are missing."
+      }
+    },
+    {
+      "job_id": "ae720c2199e8debbf0ee4889cbd9c22e",
+      "title": "MLOps/AI Infrastructure Engineer",
+      "company": "Ooredoo Tunisie",
+      "location": "Tunis, Tunisia",
+      "link": "https://tn.linkedin.com/jobs/view/mlops-ai-infrastructure-engineer-at-ooredoo-tunisie-4378739795",
+      "posted_date": "2026-02-27",
+      "posted_text": "5 days ago",
+      "scraped_at": "2026-03-05T01:05:04.073136",
+      "description": "We thank you for your interest in Ooredoo Tunisia's job offers !\nDirection/Department :\nTechnology / IT – AI & Digital Architecture\nReporting to :\nAI and ODA Assistant Director\nRole Summary:\nCollaborate with infrastructure, platform, and security teams to design, implement, and operate end-to-end MLOps infrastructure for AI workloads. Support Kubernetes/OpenShift clusters, CI/CD pipelines, and model serving platforms, while ensuring security compliance across hybrid cloud environments.\nKey Responsibilities:\nDeploy and optimize AI models for batch and real-time inference\nManage container orchestration platforms (Kubernetes, OpenShift, or equivalent) for AI workloads with GPU orchestration\nDesign and manage MLOps pipelines using experiment tracking (MLflow, or equivalent), workflow orchestration (Airflow, Prefect, or equivalent)\nImplement CI/CD pipelines for AI applications using container registries, version control and automation tools (GitLab, Openshift Pipelines, or equivalent)\nConfigure and maintain hybrid cloud infrastructure (GCP, Azure, AWS, or equivalent) for AI training and serving\nImplement Zero Trust security (Identity-Aware Proxy, RBAC, service mesh, or equivalent patterns)\nMonitor AI system performance, resource utilization, and cost optimization\nCoordinate with Infrastructure and Security teams on compliance and governance\nAutomate deployment workflows using Infrastructure-as-Code and Gitops tools (Terraform, Ansible, Argocd, or equivalent)\nEnsure model versioning, reproducibility, and audit trails\nCould this be your next big move? If you have :\n• Bachelor's/Engineering degree in Computer Science, DevOps, or related field\n• Proven experience in DevOps/MLOps with deployment of AI systems\n• Expert proficiency in container orchestration platforms (Kubernetes, OpenShift, or equivalent)\n• Hands-on experience with ML experiment tracking (MLflow or equivalent), workflow orchestration (Airflow or equivalent), and model serving frameworks (vLLM or equivalent)\n• Strong knowledge of cloud platforms (GCP, Azure, or equivalent) - certification preferred\n• Proficiency in CI/CD tools (GitLab, Openshift Pipelines, or equivalent ) and container registries\n• Experience with GPU management, CUDA/ROCm, and infrastructure optimization\n• Deep understanding of security best practices (IAM, encryption, network policies, Zero Trust architectures)\n• Proficiency in Infrastructure-as-Code tools (Terraform, Ansible, or equivalent) and Gitops tools (ArgoCd, FluxCd…)\n• Strong scripting skills (Python, Bash, or equivalent) and Linux system administration\n• Knowledge of monitoring and observability tools (OpenTel, Prometheus, Grafana, cloud-native monitoring…)\nYour Key Assets :\n• Security certifications (CISSP, CEH, or cloud security certifications)\n• Experience with service mesh (Istio) and API gateways\n• Knowledge of GDPR, AI Act, and compliance automation\n• Proven experience in Cloud Financial Management (FinOps), including cost forecasting for large-scale AI workload.\nWhy applying in Ooredoo Tunisia:\nBe part of the leading mobile operator in Tunisia.\nTake on a varied and stimulating role in a multinational and innovative company.\nDevelop your knowledge and skills in cutting-edge technologies.\nJoin an inspiring and collaborative team that supports your growth.\nAttractive compensation.\nTransportation provided.\nOur values are Caring, Connecting & Challenging. If you see yourself in these values then bring your positive energy and join us !",
+      "llm_analysis": {
+        "match_score": 7,
+        "recommendation": "Maybe Apply",
+        "matched_skills": [
+          "container orchestration platforms",
+          "ML experiment tracking",
+          "cloud platforms",
+          "CI/CD tools",
+          "security best practices",
+          "Infrastructure-as-Code tools",
+          "monitoring and observability tools",
+          "scripting skills",
+          "Linux system administration"
+        ],
+        "missing_skills": [
+          "service mesh",
+          "API gateways",
+          "GDPR, AI Act, compliance automation",
+          "Cloud Financial Management (FinOps)"
+        ],
+        "job_benefits": [
+          "caring, connecting & challenging values",
+          "multinational and innovative company",
+          "cutting-edge technologies",
+          "collaborative team",
+          "attractive compensation",
+          "transportation provided"
+        ],
+        "analysis": "Zaineb has a strong background in AI and DevOps, aligning well with the job requirements. However, some specific skills are missing, such as service mesh and API gateways, which might be crucial for the role. "
+      }
+    },
+    {
+      "job_id": "65521456388590eb3ba7e33f65183381",
+      "title": "AI Engineer [F/M/X]",
+      "company": "Mantu",
+      "location": "Ariana, Tunisia",
+      "link": "https://tn.linkedin.com/jobs/view/ai-engineer-f-m-x-at-mantu-4357359491",
+      "posted_date": "2026-02-03",
+      "posted_text": "4 weeks ago",
+      "scraped_at": "2026-03-05T01:06:43.873630",
+      "description": "Join our Data & AI team and start a new adventure in an international and dynamic environment, where you will be able to fulfill your career expectations in a fast-growing organization. Positioned at the heart of our evolution, our Data & AI team is pivotal in driving both team and organizational growth. As a,\nAI Engineer\n, you will play a key role in developing and refining machine learning models, building robust deployment pipelines, and collaborating with talented colleagues across the organization to deliver impactful solutions in a dynamic, innovative environment.\nYour missions:\nContribute to the development, optimization, and deployment of machine learning models and pipelines.\nBuild and maintain CI/CD processes for model training and deployment.\nDeploy AI Agents in production with Langchain/Langgraph and MCP/Skills\nKnows the difference between vibe coding and agentic coding via Claude Code or Cursor\nPerform statistical analysis and data processing using Python and related technologies.\nParticipate in the collection, cleaning, and preprocessing of large-scale datasets.\nCollaborate with cross-functional teams to understand business challenges and provide data-driven insights.\nEnhance and improve AI algorithms and systems to ensure reliability and scalability.\nDocument findings, experiments, and best practices, and present recommendations to stakeholders.\nStay up-to-date with the latest developments in data science and AI research.\nYour profile:\nDegree in Computer Science, Data Science, Statistics, Mathematics, Engineering, or a related field.\nDeep understanding of machine learning concepts and algorithms.\nProficiency in Python for data science and machine learning (e.g., pandas, numpy, seaborn, matplotlib).\nExperience with OpenAI, HuggingFace, PyTorch and/or TensorFlow, Flask and/or FastAPI.\nProficiency in Docker, SQL and NoSQL databases, and CI/CD processes.\nStrong analytical and problem-solving skills with attention to detail.\nExcellent communication and teamwork abilities.\nEagerness to take on challenging tasks.\nMastering generative AI such as ChatGPT for improving day-to-day productivity.\nWhat we offer\nAn international community bringing together 110+ different nationalities\nAn environment where trust has a central place: 70% of our key leaders started their careers at the first level of responsibilities\nA robust training system with our internal Academy and 250+ available modules\nA vibrant workplace that frequently gathers for internal events (afterworks, team buildings, etc.)\nStrong commitments to CSR notably through participation in our WeCare Together program\nMantu is proud to be an equal opportunity workplace. We are committed to promoting diversity within the workforce and creating an inclusive working environment. For this purpose, we welcome applications from all qualified candidates regardless of gender, sexual orientation, race, ethnicity, beliefs, age, marital status, disability, or other characteristics.\nWho are we?\nMantu is an independent international consulting player, founded in 2007. Bringing together expert and complementary brands, Mantu stands out for the breadth of its spectrum, responding to all business transformation challenges.\nIts activities are divided into four practices:\nLeadership & Advocacy, Technology, Brand Strategy & Experiences and Total Talent Management.\nA wide range of skills, all serving a single mission: connecting and powering companies with leading teams and technology to succeed faster and sustainably.\nFrom its headquarters in Geneva, Switzerland, Mantu relies on a community of 12,000 talented people in more than 60 countries on 5 continents and has a turnover of 1billion euros.",
+      "llm_analysis": {
+        "match_score": 7,
+        "recommendation": "Apply",
+        "matched_skills": [
+          "Machine Learning Models",
+          "Python",
+          "Docker",
+          "Flask",
+          "CI/CD Processes",
+          "Data Science"
+        ],
+        "missing_skills": [
+          "Agentic Coding",
+          "Vibe Coding",
+          "Generative AI"
+        ],
+        "job_benefits": [
+          "International Community",
+          "Internal Training Academy",
+          "Diverse Workplace"
+        ],
+        "analysis": "Zaineb Zouari's resume demonstrates strong skills in machine learning, Python, and CI/CD processes, which align well with the job posting. However, there are some specific skills like agentic coding and generative AI that are missing."
+      }
+    },
+    {
+      "job_id": "4c1016567a29bd5baa2d0db14633d5b9",
+      "title": "Devops Engineer Annotator",
+      "company": "Odixcity Consulting",
+      "location": "Tunisia",
+      "link": "https://tn.linkedin.com/jobs/view/devops-engineer-annotator-at-odixcity-consulting-4378030053",
+      "posted_date": "2026-02-25",
+      "posted_text": "1 week ago",
+      "scraped_at": "2026-03-05T01:08:15.267999",
+      "description": "DevOps Engineer Annotator\nJob Summary: We are a detailed-oriented DevOps Engineer Annotator to support the learning, evaluation, and optimization of Artificial Intelligence( AI ) and Large Language Model (LLM) systems focused on DevOps engineering workflows. The DevOps Engineer Annotator will help in reviewing, annotating, validating, and ranking DevOps- related datasets, infrastructure configurations, automation scripts, focused on CI/CD pipelines, and cloud engineering outputs, and infrastructure management to improve AI model understanding of DevOps practices.\nJob Responsibilities\nAnnotate infrastructure-as-code and automation datasets.\nEvaluate CI/CD pipeline configurations.\nReview deployment scripts and cloud infrastructure setups.\nLabel monitoring, logging, and system reliability scenarios.\nValidate container orchestration and automation workflows.\nProvide quality feedback on DevOps engineering outputs.\nJob Requirements\nBachelor’s Degree in computer science, Software Engineering or related field.\nMinimum 3 years’ experience in DevOps Engineering.\nProficiency with CI/CD tools such as Jenkins, GitLab CI/CD, CircleCI or similar Platforms and automation pipelines.\nStrong knowledge of containerization and orchestration with Docker, Kubernetes, Jenkins, GitHub Actions.\nHands-on experience with cloud platforms (AWS, Azure, or GCP).\nKnowledge of infrastructure monitoring and security practices.\nFamiliarity with Linux system administration expertise and shell scripting.\nKnowledge of monitoring and observability tools such as: Datadog, ELK Stack, Grafana, and Promethus)\nCandidate must have certifications such as AWS Certified DevOps Engineer, Certified Kubernetes Administrator (CKA), Microsoft Azure DevOps Engineer Expert, and Google Professional DevOps Engineer",
+      "llm_analysis": {
+        "match_score": 5,
+        "recommendation": "Maybe Apply",
+        "matched_skills": [
+          "Git",
+          "Jenkins",
+          "Docker",
+          "Linux"
+        ],
+        "missing_skills": [
+          "AWS Certified DevOps Engineer",
+          "Certified Kubernetes Administrator (CKA)",
+          "Microsoft Azure DevOps Engineer Expert",
+          "Google Professional DevOps Engineer",
+          "Strong knowledge of cloud platforms (AWS, Azure, or GCP)",
+          "Familiarity with monitoring and observability tools such as Datadog, ELK Stack, Grafana, and Prometheus"
+        ],
+        "job_benefits": [
+          "Annotate infrastructure-as-code and automation datasets",
+          "Evaluate CI/CD pipeline configurations",
+          "Review deployment scripts and cloud infrastructure setups",
+          "Label monitoring, logging, and system reliability scenarios",
+          "Validate container orchestration and automation workflows"
+        ],
+        "analysis": "Zaineb has relevant DevOps experience with tools like Git, Jenkins, and Docker, but is missing key certifications and cloud platform expertise required for the role."
+      }
+    },
+    {
+      "job_id": "294a89a4801312f47df08ed48e756d39",
+      "title": "Senior Generative AI (Gen AI) Engineer",
+      "company": "InnovationTeam",
+      "location": "Tunisia",
+      "link": "https://tn.linkedin.com/jobs/view/senior-generative-ai-gen-ai-engineer-at-innovationteam-4373285188",
+      "posted_date": "2026-02-15",
+      "posted_text": "2 weeks ago",
+      "scraped_at": "2026-03-05T01:09:28.815067",
+      "description": "Senior Generative AI (GenAI) Engineer\nDescription\nInnovationTeam\nis a forward-thinking technology company that specializes in delivering advanced AI-driven solutions to enterprises and government organizations. We are currently seeking a highly skilled Senior Generative AI (GenAI) Engineer to join our AI team.\nAs a Senior GenAI Engineer at\nInnovationTeam\n, you will be responsible for designing, developing, and deploying large-scale generative AI solutions. You will work closely with cross-functional teams to translate business and technical requirements into robust AI systems and bring them into production.\nThis role requires deep expertise in modern AI architectures, large language models, and production-ready software engineering practices. The ideal candidate is highly motivated, detail-oriented, and capable of owning AI solutions end to end.\nAt\nInnovationTeam\n, we value innovation, collaboration, and continuous learning. We provide a flexible and inclusive work environment where your expertise is recognized and opportunities for professional growth are continuously supported.\nRole Overview\nWe are seeking a skilled AI Engineer with a strong focus on Generative AI technologies to develop, optimize, and deploy AI Agents and solutions. The role involves working on real-world use cases and data analytics problems and delivering production-ready AI systems.\nKey Responsibilities\nDesign, develop, and optimize Generative AI solutions (LLMs, RAG systems, AI agents)\nFine-tune, evaluate, and deploy large language models for enterprise use cases\nBuild and maintain end-to-end AI pipelines, from data ingestion to inference\nImplement Retrieval-Augmented Generation (RAG) using vector databases and knowledge stores\nIntegrate GenAI solutions with existing systems via APIs and microservices\nOptimize model performance, latency, and cost on cloud platforms (OCI, AWS, Azure, or GCP)\nCollaborate with product, data, and engineering teams to translate business needs into AI solutions\nEnsure AI solutions follow best practices in security, governance, and responsible AI\nStay up to date with the latest developments in GenAI, LLMs, and AI tooling\nRequired Skills & Qualifications\nMinimum 5 years of professional experience in AI / Machine Learning\nMaster's degree in Computer Science, Software Engineering, Artificial Intelligence, Data Science, or a related field\nProficiency in programming languages such as python , Java , and Ruby\nStrong experience with Large Language Models (LLMs) (e.g., GPT, LLaMA, Mistral, etc.)\nHands-on experience with Python and AI/ML frameworks (PyTorch, TensorFlow)\nSolid understanding of NLP, deep learning, and transformer architectures\nExperience with RAG architectures, vector databases (FAISS, OpenSearch, Pinecone, etc.)\nStrong software engineering skills (APIs, REST, microservices, Docker, Kubernetes)\nExperience deploying AI workloads on cloud platforms (OCI preferred)\nExcellent problem-solving and analytical skills\nExcellent command of English (written and spoken)\nNice to Have\nExperience with GPU-based training and inference\nFamiliarity with MLOps / LLMOps practices\nExperience in regulated or enterprise environments\nKnowledge of AI governance, ethics, and compliance frameworks\nWhat We Offer\nOpportunity to work on cutting-edge Generative AI projects\nCollaborative, innovation-driven environment\nCompetitive compensation package\nAccess to modern AI infrastructure and cloud resources\nProfessional growth and learning opportunities",
+      "llm_analysis": {
+        "match_score": 7,
+        "recommendation": "Apply",
+        "matched_skills": [
+          "Large Language Models",
+          "Python",
+          "Deep Learning",
+          "Transformers",
+          "AI Agents",
+          "NLP",
+          "RAG",
+          "Git",
+          "Kubernetes",
+          "Cloud Platforms"
+        ],
+        "missing_skills": [
+          "GPU-based training and inference",
+          "MLOps",
+          "Experience in regulated or enterprise environments",
+          "Knowledge of AI governance, ethics, and compliance frameworks"
+        ],
+        "job_benefits": [
+          "Opportunity to work on cutting-edge Generative AI projects",
+          "Collaborative, innovation-driven environment",
+          "Competitive compensation package",
+          "Access to modern AI infrastructure and cloud resources",
+          "Professional growth and learning opportunities"
+        ],
+        "analysis": "Zaineb Zouari's resume aligns well with the job posting, showcasing relevant skills in generative AI, large language models, and deep learning. However, there are some gaps in specific technologies and experience that the job posting emphasizes."
+      }
+    },
+    {
+      "job_id": "5c2fa965b62d940eeb212637a1120727",
+      "title": "ML Engineer Intern (Computer Vision)",
+      "company": "Orakl Oncology",
+      "location": "Le Kremlin-Bicêtre, Île-de-France, France",
+      "link": "https://fr.linkedin.com/jobs/view/ml-engineer-intern-computer-vision-at-orakl-oncology-4379183501",
+      "posted_date": "2026-03-03",
+      "posted_text": "1 day ago",
+      "scraped_at": "2026-03-05T01:11:11.979134",
+      "description": "At\nOrakl Oncology\n, our wet lab generates a rich diversity of data — from high-throughput screening results to microscopy images and other forms of unstructured data. Our ambition is to\nscale this data production and centralize it into a robust, industry-grade data platform\n. Today, the microscopy images generated during our experiments are still\nunderexploited\n, despite their potential to capture\nrich phenotypic signals\nrelated to tumor growth and drug response. Unlocking this information requires robust computer vision pipelines and careful evaluation of the predictive value of imaging features.\nWe are looking for a\nMachine Learning Engineer Intern (Computer Vision)\nto help design, build, and optimize imaging workflows that power our wet-lab operations and predictive engine. In this role, you’ll work at the intersection of biology and machine learning, contributing directly to projects with immediate impact on our mission to discover new cancer treatments.\nA central goal of the internship will be to answer a key scientific and product question: do the microscopy images generated in our lab provide predictive power beyond existing modalities such as omics, clinical, and experimental data?\nKey Responsibilities\nIntegrate imaging data into existing experimental and ML workflows\n, ensuring smooth ingestion, preprocessing, and alignment with current datasets and pipelines.\nDevelop computer vision feature extraction pipelines\nto generate predictive representations from images (e.g., segmentation, morphological descriptors, embeddings, and learned features).\nQuantify the added predictive value of imaging features\nbeyond existing modalities (screening, clinical, omics), using rigorous evaluation frameworks, ablation studies, and appropriate performance metrics.\nPerform model debugging and error analysis\nto understand failure modes, improve robustness, and validate biological/experimental relevance of extracted features.\nMinimum Qualifications\nBSc, MSc, MEng, or equivalent degree in statistics, machine learning, data science, or a related field.\nStrong computer vision + deep learning fundamentals (segmentation, object detection, classification, metric learning/embeddings)\nPrior professional experience using Python, with familiarity with modern development tools and environments (GitHub, AWS/GCP).\nHands-on, curious, and autonomous, with the ability to navigate fast-paced and ambiguous environments.\nGenuine interest in the intersection of data and biology.\nProficiency in English.\nPreferred Qualifications\nExperience with data pipelines, ETL processes, or workflow orchestration frameworks (Airflow, Prefect, or similar).\nProficiency with data visualization or dashboarding tools (e.g., matplotlib, Plotly, Streamlit, Dash).\nPrior exposure to biological, experimental, or multimodal data.\nHR Call (15 minutes)\n– An initial conversation to better understand your background, experiences, and motivations.\nTechnical Interview (45 minutes)\n– A deep dive into your technical skills and hands-on expertise relevant to the role.\nOn-site Interview\n– As the final step of our recruitment process, you will visit our office and lab, and work on a concrete case study combining\nexperimental imaging data\nand\ncomputer vision\n.",
+      "llm_analysis": {
+        "match_score": 7,
+        "recommendation": "Apply",
+        "matched_skills": [
+          "computer vision",
+          "deep learning",
+          "Python",
+          "feature extraction",
+          "model debugging"
+        ],
+        "missing_skills": [
+          "data pipelines",
+          "ETL processes",
+          "experimental imaging data"
+        ],
+        "job_benefits": [
+          "concrete case study",
+          "intersection of data and biology"
+        ],
+        "analysis": "Zaineb's resume demonstrates strong skills in computer vision and deep learning, aligning well with the job requirements. However, she lacks specific experience in data pipelines and ETL processes, which are preferred but not mandatory. Her background in experimental data and computer vision could be valuable."
+      }
+    }
+  ]
+}
